@@ -1,4 +1,4 @@
-###Fun exercises with array functions:
+### Fun exercises with array functions:
 
 * map
 * reduce
