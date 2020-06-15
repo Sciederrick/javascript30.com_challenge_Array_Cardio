@@ -1,4 +1,5 @@
 ###Fun exercises with array functions:
+
 *map
 *reduce
 *filter
